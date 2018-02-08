@@ -1,0 +1,8 @@
+File naming practices
+  index.html server will always look for index.html in the folder
+  Img or Images
+  css(static) or scss(dynamics) for styling
+  scripts or js : holds all the scripts
+
+
+  ../ go up one level
