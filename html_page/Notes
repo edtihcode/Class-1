@@ -23,3 +23,22 @@ File naming practices
 
   Template for HTML:
   https://www.sitepoint.com/a-basic-html5-template/
+
+W2D1
+  For comments in style.css use /* "commets"*/
+  /* CSS: Cascading style Sheets */
+  specific css will overide general CSS
+  <head>
+    <title>
+    <link rel = "stylesheet " href= "css/style.css ? v=1.0" />
+  </head>
+  <p id = "idName"> This text is special.</p>
+  <div class = "className"><img src= "pexels-photo.jpeg"
+
+Go to google font to add fonts and add the link to your code
+  <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
+
+w2d5
+Types of pictures
+bitmap by pixels: .png .jpeg .gif
+vectors by : .svg, .eps(generally for blueprints), .ai,

@@ -1,0 +1,68 @@
+/* CSS: Cascading style Sheets */
+
+
+
+
+Selector{
+  property : value;
+  property : value;
+  property : value;
+
+  anotherSelector {
+    property: value;
+    property: value;
+  }
+}/* CSS: Cascading style Sheets */
+
+
+
+
+Selector{
+  property : value;
+  property : value;
+  property : value;
+
+  anotherSelector {
+    property: value;
+    property: value;
+
+  }
+
+
+  p {
+    margin-left: 10px;
+    font-size: 24 pt;
+    font-family: 'Inconsolata' , 'Arial', sans-serif;
+  }
+  h1{
+
+  }
+  a:hover{
+    font-size: 100pt;
+  }
+  a:visited{}
+  a:active{}
+  a{
+
+  }
+
+  ul{
+
+  }
+
+  p{
+    color:green;
+    background-color: }
+
+  body{
+    background-color: #CD5C5C
+    }
+  /* specific css by naming IDs or list */
+  .className{
+
+  }
+
+  #idName{
+
+  }
+}
